@@ -1,0 +1,7 @@
+rootProject.name = 'saga-transfer-system'
+
+include('common')
+include('saga-coordinator')
+include('wallet-service')
+include('transfer-service')
+include('notification-service')
